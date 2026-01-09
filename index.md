@@ -1,4 +1,6 @@
-# Giuseppe Danese
+![Giuseppe Danese](danese.jpg)
+
+# Giuseppe Danese. Ph.D.
 
 Welcome to my webpage. I am a Researcher in the Department of Economics and Management "Marco Fanno" at the University of Padua (Italy).  
 
