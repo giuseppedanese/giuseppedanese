@@ -32,7 +32,7 @@ Via del Santo, 33
 
 
 ## My Blog
-- [Blog]([https://scholar.google.com/citations?user=nsugQFcAAAAJ&hl=en&oi=ao](https://ccadapt4biz.wordpress.com))
+- [Blog](https://ccadapt4biz.wordpress.com)
 
 ## My Vita
-- [CV]([https://scholar.google.com/citations?user=nsugQFcAAAAJ&hl=en&oi=ao](https://drive.google.com/file/d/18X2XS-ZVoBRsVnRB0fijlkRwXr15ARmz/view?usp=sharing))
+- [CV](https://drive.google.com/file/d/18X2XS-ZVoBRsVnRB0fijlkRwXr15ARmz/view?usp=sharing)
