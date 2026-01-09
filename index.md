@@ -1,6 +1,6 @@
 <img src="danese.jpg" alt="Giuseppe Danese" width="240">
 
-# Giuseppe Danese. Ph.D.
+# Giuseppe Danese, Ph.D.
 
 Welcome to my webpage. I am a Researcher in the Department of Economics and Management "Marco Fanno" at the University of Padua (Italy).  
 
