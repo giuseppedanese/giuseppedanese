@@ -1,5 +1,4 @@
-![Giuseppe Danese](danese.jpg)
-<img src="danese.jpg" alt="Giuseppe Danese" width="220">
+<img src="danese.jpg" alt="Giuseppe Danese" width="240">
 
 # Giuseppe Danese. Ph.D.
 
