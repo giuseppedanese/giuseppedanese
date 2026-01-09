@@ -2,36 +2,58 @@
 
 # Giuseppe Danese, Ph.D.
 
-Welcome to my webpage. I am a Researcher in the Department of Economics and Management "Marco Fanno" at the University of Padua (Italy).  
+**Researcher**  
+Department of Economics and Management “Marco Fanno”  
+University of Padua (Italy)
 
-My current research is on how companies adapt to climate change and behavioral change toward sustainable behaviors. I received a Ph.D. in Economics from Simon Fraser University (Canada). Before joining the University of Padua, I served as a Lecturer in the Philosophy, Politics & Economics Program at the University of Pennsylvania and as a Postdoc at Católica Porto Business School 
+---
 
-## Research interests
-- Sustainability and climate strategy
-- SMEs and organizational adaptation
+I am a researcher in management and sustainability, with a focus on how firms adapt to climate change and how behavioral change can support more sustainable economic outcomes.
+
+I received a Ph.D. in Economics from **Simon Fraser University (Canada)**.  
+Before joining the University of Padua, I served as a **Lecturer** in the *Philosophy, Politics & Economics* program at the **University of Pennsylvania** and as a **Postdoctoral Researcher** at **Católica Porto Business School**.
+
+---
+
+## Research Focus
+
+My work lies at the intersection of sustainability strategy, organizational adaptation, and behavioral economics, with particular attention to small and medium-sized enterprises.
+
+**Core interests**
+- Sustainability and climate strategy  
+- SME adaptation and organizational change  
 - Hybrid organizations and social innovation  
 
-## Current projects
-- Climate adaptation and mitigation in Italian SMEs
-- Energy communities and hybrid organizing
+---
+
+## Current Projects
+
+- Climate adaptation and mitigation strategies in Italian SMEs  
+- Energy communities and hybrid forms of organizing  
+
+---
 
 ## Contact
-Email: gd@giuseppedaneseecon.com
 
+📧 **gd@giuseppedaneseecon.com**
 
-## My address
-University of Padua  
+---
+
+## Institutional Address
+
 Department of Economics & Management “Marco Fanno”  
+University of Padua  
 Via del Santo, 33  
-35123  Padova (ITALY)  
+35123 Padova (Italy)
 
+---
 
 ## Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=nsugQFcAAAAJ&hl=en&oi=ao)
 
+---
 
-## My Blog
-- [Blog](https://ccadapt4biz.wordpress.com)
+## Writing
 
-
+- [Blog — *Climate Change Adaptation for Business*](https://ccadapt4biz.wordpress.com)
