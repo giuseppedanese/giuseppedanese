@@ -1,8 +1,5 @@
-# Research Outputs
+# Research
 
-My research spans sustainability and climate strategy, organizational and institutional analysis, and behavioral and experimental economics. Below I list my peer-reviewed publications, papers currently under review, and selected manuscripts in progress, grouped by research theme.
-
----
 
 ## Climate Change, Sustainability, and Business Strategy
 
