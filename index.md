@@ -34,5 +34,4 @@ Via del Santo, 33
 ## My Blog
 - [Blog](https://ccadapt4biz.wordpress.com)
 
-## My Vita
-- [CV](https://drive.google.com/open?id=1VPRgG3atf3nruKEqN_S3EYQnYZ3cJOF8&usp=drive_fs)
+
