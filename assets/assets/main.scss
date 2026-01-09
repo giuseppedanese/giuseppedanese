@@ -1,20 +1,25 @@
-
 ---
 ---
 
 @import "minima";
 
-/* Custom styles */
-
+/* Topic headings */
 h2 {
-  color: #0b3c5d;
+  color: #0b3c5d; /* dark academic blue */
 }
 
-.pub {
-  margin-bottom: 1.2em;
+/* Subsection headings */
+h3 {
+  color: #1f3a5f;
+  font-weight: 600;
 }
 
-.wip {
-  margin-bottom: 0.8em;
-  opacity: 0.9;
+/* Publication lists */
+li {
+  margin-bottom: 1.1em;
+}
+
+/* Journal / book titles in italics */
+em {
+  color: #444;
 }
