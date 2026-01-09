@@ -16,9 +16,12 @@ Email: gd@giuseppedaneseecon.com
 
 
 ## My address
-University of Padua​
+University of Padua
+​
 Department of Economics & Management “Marco Fanno” 
+
 Via del Santo, 33 
+
 35123  Padova (ITALY) 
 Email: gd@giuseppedaneseecon.com 
 Zoom link: https://unipd.zoom.us/my/gdanese 
