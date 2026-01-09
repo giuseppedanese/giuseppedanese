@@ -1,6 +1,6 @@
 # Giuseppe Danese
 
-Welcome to my webpage. I am a researcher in management and sustainability.
+Welcome to my webpage. I am a Researcher in the Department of Economics and Management "Marco Fanno" at the University of Padua (Italy). My current research is on how companies adapt to climate change and behavioral change toward sustainable behaviors. I received a Ph.D. in Economics from Simon Fraser University (Canada). Before joining the University of Padua, I served as a Lecturer in the Philosophy, Politics & Economics Program at the University of Pennsylvania and as a Postdoc at Católica Porto Business School 
 
 ## Research interests
 - Sustainability and climate strategy
@@ -24,7 +24,9 @@ Email: gd@giuseppedaneseecon.com
 Zoom link: https://unipd.zoom.us/my/gdanese 
 
 
-## My Google Scholar Page
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=nsugQFcAAAAJ&hl=en&oi=ao)
 
 
 ## My Blog
