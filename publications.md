@@ -120,4 +120,11 @@ Danese, G., & Mittone, L. (2015).
 Fernandes, E., Zilioli, S., Watson, N., & Danese, G. (2017).  
 **Testosterone and Cortisol Jointly Predict the Ambiguity Premium in an Ellsberg-Urns Experiment.**  
 *Frontiers in Behavioral Neuroscience*, 11(68).  
-[PDF](https://drive.google.com/open?id=10B1rRAX_n-3EYIVJrE_DDE3AtKRqlFtY&usp=drive_fs)
+[PDF](https://drive.google.com/open?id=10B1rRAX_n-3EYIVJrE_DDE3AtKRqlFtY&usp=drive_fs)  
+
+### Book Chapters
+
+Danese, G., & Mittone, L. (2017).  
+**Behavioral Economic Anthropology.**  
+In M. Altman (Ed.), *Handbook of Behavioral Economics and Smart Decision-Making: Rational Decision-Making within the Bounds of Reason* (pp. 233–248). Edward Elgar Publishing.
+[PDF](https://drive.google.com/open?id=1Fxdsl87CJHd_A-QnVYG45sblCBmk38Wt&usp=drive_fs)
