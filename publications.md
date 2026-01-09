@@ -91,7 +91,7 @@ title: Research
 - **Neurophysiological Examination of the Affect–Integration–Motivation Framework of Decision-Making in the Aging Brain**  
   C. Fernandes et al. (2022)  
   *NeuroImage*, 256, 119189  
-  [PDF](https://drive.google.com/open?id=1Wouj-zjazqWmfEvI6ICAKRymjSDpaO7r&usp=drive_fs)
+  [PDF](https://drive.google.com/file/d/10ArY01HjJ3WjL7VVNg0UobUV2Edo5Y1h/view?usp=sharing)
 
 - **Homophily and Social Norms in Experimental Network Formation Games**  
   G. Danese, J. Arifovic (2018)  
