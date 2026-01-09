@@ -90,34 +90,34 @@ Danese, G., & Mittone, L. (2024).
 Danese, G., & Mittone, L. (2022).  
 **Pledging One's Trustworthiness Through Gifts: An Experiment.**  
 *Judgment and Decision Making*, 17(5), 1123–1145.  
-[PDF](https://drive.google.com/...)
+[PDF](https://drive.google.com/open?id=1Wouj-zjazqWmfEvI6ICAKRymjSDpaO7r&usp=drive_fs)
 
 Fernandes, C., et al. (2022).  
 **Neurophysiological Examination of the Affect-Integration-Motivation Framework of Decision-Making in the Aging Brain.**  
 *NeuroImage*, 256, 119189.  
-[PDF](https://drive.google.com/...)
+[PDF](https://drive.google.com/open?id=1Wouj-zjazqWmfEvI6ICAKRymjSDpaO7r&usp=drive_fs)
 
 Danese, G., & Arifovic, J. (2018).  
 **Homophily and Social Norms in Experimental Network Formation Games.**  
 *Games*, 9(4), 83.  
-[PDF](https://drive.google.com/...)
+[PDF](https://drive.google.com/open?id=1v-gN995tQr9z8rtYF8wyI-auSkZUDTaY&usp=drive_fs)
 
 Danese, G., & Mittone, L. (2018).  
 **The Circulation of Worthless Tokens Aids Cooperation: An Experiment Inspired by the Kula.**  
 *Games*, 9(3), 63.  
-[PDF](https://drive.google.com/...)
+[PDF](https://drive.google.com/open?id=1WCBgqDWzMViPrLerdDyK0QYtJd83KYsA&usp=drive_fs)
 
 Danese, G., & Mittone, L. (2018).  
 **Trust and Trustworthiness in Organizations: The Role of Monitoring and Moral Suasion.**  
 *Managerial and Decision Economics*, 39(1), 46–55.  
-[PDF](https://drive.google.com/...)
+[PDF](https://drive.google.com/open?id=1nX-0Rlo-fnLaxOLE0NTE3YsaJO6OZOLI&usp=drive_fs)
 
 Danese, G., & Mittone, L. (2015).  
 **Norms and Trades: An Experimental Investigation.**  
 *Rationality and Society*, 27(3), 259–282.  
-[PDF](https://drive.google.com/...)
+[PDF](https://drive.google.com/open?id=1YndEFOnchPG1HoGj8dYPqv-NYdps2qJb&usp=drive_fs)
 
 Fernandes, E., Zilioli, S., Watson, N., & Danese, G. (2017).  
 **Testosterone and Cortisol Jointly Predict the Ambiguity Premium in an Ellsberg-Urns Experiment.**  
 *Frontiers in Behavioral Neuroscience*, 11(68).  
-[PDF](https://drive.google.com/...)
+[PDF](https://drive.google.com/open?id=10B1rRAX_n-3EYIVJrE_DDE3AtKRqlFtY&usp=drive_fs)
