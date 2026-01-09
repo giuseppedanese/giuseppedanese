@@ -27,7 +27,7 @@ Danese, G. (2017).
 
 Danese, G. (2024).  
 **Adaptation Strategies to Climate Change: Bibliometric Analyses and Emerging Themes.**  
-In T. J. Andersen (Ed.), *Sustainable and Resilient Global Practices*. Emerald.
+In T. J. Andersen (Ed.), *Sustainable and Resilient Global Practices*. Emerald.  
 [PDF](https://drive.google.com/open?id=1ksGe5fWFQb0layKEq0lsYsU7Gy2cEpv0&usp=drive_fs)
 
 Danese, G. (forthcoming).  
