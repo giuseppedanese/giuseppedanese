@@ -35,10 +35,15 @@ My work lies at the intersection of sustainability strategy, organizational adap
 
 ## Contact
 
-📧 **gd@giuseppedaneseecon.com**
+📧 **gd@giuseppedaneseecon.com**  
+
+🎥 **Zoom room:** https://unipd.zoom.us/my/gdanese  
+
+📅 **Book an appointment:** https://calendar.app.google/dhsB7AfT94KnYdEY8  
+
+☎️ **Office phone:** +39 049 827 4055  
 
 ---
-
 ## Institutional Address
 
 Department of Economics & Management “Marco Fanno”  
