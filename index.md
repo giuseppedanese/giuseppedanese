@@ -33,7 +33,7 @@ My work lies at the intersection of sustainability strategy, organizational adap
 
 ---
 
-## Contact
+## Contacts
 
 📧 **gd@giuseppedaneseecon.com**  
 
