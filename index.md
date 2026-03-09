@@ -35,7 +35,7 @@ My work lies at the intersection of sustainability strategy, organizational adap
 
 ## Contacts
 
-📧 **gd@giuseppedaneseecon.com**  
+📧 **giuseppe.danese@unipd.it**  
 
 🎥 **Zoom room:** https://unipd.zoom.us/my/gdanese  
 
