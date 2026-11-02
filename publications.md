@@ -68,13 +68,10 @@ title: Research
 - **Beyond the Romantic Narrative: How Hybrid Logics Shape and Constrain Social Innovation in the Field of Energy Communities**  
   A. Maghssudipour, G. Danese, S. R. Sedita
 
-### Manuscripts in Progress
+### Submitted Manuscripts
 
-- **The Benefit Listed SME: The Challenges of Hyper-Hybridization**  
+- **The Hyper-Hybrid SME: Integration Limits and the Accumulation of Institutional Commitments**  
   G. Danese, V. De Marchi
-
-- **Fostering the Energy Transition through Technology Co-creation: The Case of Energy Communities**  
-  G. Danese, S. R. Sedita, A. Sahin
 
 ---
 
