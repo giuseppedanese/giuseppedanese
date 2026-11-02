@@ -6,7 +6,11 @@ title: Research
 
 ### Refereed Journal Articles
 
-- **Business Adaptation to Climate Change: A Systematic Review**  
+- **Business Responses to Competing Institutional Logics in the Climate Change Field: An Experiment**  
+  A. Paul, G. Danese, R. J. Baumgartner (forthcoming)  
+  *Business Strategy and the Environment*
+
+- **Business Adaptation Strategies to Climate Change: A Systematic Review**  
   G. Danese, V. De Marchi (2024)  
   *Journal of Cleaner Production*, 485, 144322  
   [PDF](https://drive.google.com/open?id=1aiV82RDpK9sbMf3GGyrJeevcWCyqjuIR&usp=drive_fs)
@@ -30,12 +34,9 @@ title: Research
 
 - **Climate Change and Business**  
   G. Danese (forthcoming)  
-  In K. Akrivou (Ed.), *Elgar Business Ethics Encyclopaedia*. Edward Elgar Publishing
+  In K. Akrivou & C. González-Cantón (Eds.), *Elgar Encyclopedia of Business Ethics*. Edward Elgar Publishing
 
 ### Papers under Review
-
-- **Business Responses to Competing Institutional Logics in a Climate Change Field: An Experiment**  
-  A. B. Paul, G. Danese, R. J. Baumgartner
 
 - **Environmental Upgrading in Global Value Chains: An Experiment**  
   G. Danese, V. De Marchi, L. Mittone
@@ -78,6 +79,11 @@ title: Research
 
 ### Refereed Journal Articles
 
+- **How Context Shapes Neural Decision Processing Across the Lifespan: Evidence from an Event-Related Potential Study**  
+  C. Fernandes, I. Macedo, R. Mata, G. Danese, F. Barbosa, J. Marques-Teixeira (2026)  
+  *The Journals of Gerontology: Series B*, 81(6), gbag074  
+  [DOI](https://doi.org/10.1093/geronb/gbag074)
+
 - **The Tragedy of the Masks: Curbing Stockpiling Behavior through a “Victim”**  
   G. Danese, L. Mittone (2024)  
   *Review of Behavioral Economics*, 11(4), 431–454  
@@ -88,13 +94,13 @@ title: Research
   *Judgment and Decision Making*, 17(5), 1123–1145  
   [PDF](https://drive.google.com/open?id=1Wouj-zjazqWmfEvI6ICAKRymjSDpaO7r&usp=drive_fs)
 
-- **Neurophysiological Examination of the Affect–Integration–Motivation Framework of Decision-Making in the Aging Brain**  
+- **Neurophysiological Examination of the Affect–Integration–Motivation Framework of Decision-Making in the Aging Brain: A Registered Report**  
   C. Fernandes et al. (2022)  
   *NeuroImage*, 256, 119189  
   [PDF](https://drive.google.com/file/d/10ArY01HjJ3WjL7VVNg0UobUV2Edo5Y1h/view?usp=sharing)
 
 - **Homophily and Social Norms in Experimental Network Formation Games**  
-  G. Danese, J. Arifovic (2018)  
+  J. Arifovic, G. Danese (2018)  
   *Games*, 9(4), 83  
   [PDF](https://drive.google.com/open?id=1v-gN995tQr9z8rtYF8wyI-auSkZUDTaY&usp=drive_fs)
 
@@ -114,7 +120,7 @@ title: Research
   [PDF](https://drive.google.com/open?id=1YndEFOnchPG1HoGj8dYPqv-NYdps2qJb&usp=drive_fs)
 
 - **Testosterone and Cortisol Jointly Predict the Ambiguity Premium in an Ellsberg-Urns Experiment**  
-  E. Fernandes, S. Zilioli, N. Watson, G. Danese (2017)  
+  G. Danese, E. Fernandes, N. V. Watson, S. Zilioli (2017)  
   *Frontiers in Behavioral Neuroscience*, 11(68)  
   [PDF](https://drive.google.com/open?id=10B1rRAX_n-3EYIVJrE_DDE3AtKRqlFtY&usp=drive_fs)
 
