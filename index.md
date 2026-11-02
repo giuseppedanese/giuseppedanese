@@ -3,15 +3,15 @@
 # Giuseppe Danese, Ph.D.
 
 **Researcher**  
-Department of Economics and Management “Marco Fanno”  
-University of Padua (Italy)
+Department of Economics  
+Ca’ Foscari University of Venice (Italy)
 
 ---
 
 I am a researcher in management and sustainability, with a focus on how firms adapt to climate change and how behavioral change can support more sustainable economic outcomes.
 
 I received a Ph.D. in Economics from **Simon Fraser University (Canada)**.  
-Before joining the University of Padua, I served as a **Lecturer** in the *Philosophy, Politics & Economics* program at the **University of Pennsylvania** and as a **Postdoctoral Researcher** at **Católica Porto Business School**.
+Before joining Ca’ Foscari, I was a researcher at the **University of Padua**. Previously, I served as a **Lecturer** in the *Philosophy, Politics & Economics* program at the **University of Pennsylvania** and as a **Postdoctoral Researcher** at **Católica Porto Business School**.
 
 ---
 
@@ -35,21 +35,19 @@ My work lies at the intersection of sustainability strategy, organizational adap
 
 ## Contacts
 
-📧 **giuseppe.danese@unipd.it**  
+📧 **giuseppe.danese@unive.it**  
 
 🎥 **Zoom room:** https://unipd.zoom.us/my/gdanese  
 
 📅 **Book an appointment:** https://calendar.app.google/dhsB7AfT94KnYdEY8  
 
-☎️ **Office phone:** +39 049 827 4055  
-
 ---
 ## Institutional Address
 
-Department of Economics & Management “Marco Fanno”  
-University of Padua  
-Via del Santo, 33  
-35123 Padova (Italy)
+Department of Economics  
+Ca’ Foscari University of Venice  
+Fondamenta San Giobbe 873  
+30121 Venezia (Italy)
 
 ---
 
