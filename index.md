@@ -6,6 +6,8 @@
 Department of Economics  
 Ca’ Foscari University of Venice (Italy)
 
+<img src="logo.png" alt="Ca’ Foscari University of Venice, Department of Economics" width="150" style="max-width: 100%; height: auto;">
+
 ---
 
 I am a researcher in management and sustainability, with a focus on how firms adapt to climate change and how behavioral change can support more sustainable economic outcomes.
@@ -60,3 +62,4 @@ Fondamenta San Giobbe 873
 ## Writing
 
 - [Blog — *Climate Change Adaptation for Business*](https://ccadapt4biz.wordpress.com)
+
