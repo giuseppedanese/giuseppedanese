@@ -39,7 +39,7 @@ My work lies at the intersection of sustainability strategy, organizational adap
 
 📧 **giuseppe.danese@unive.it**  
 
-🎥 **Zoom room:** https://unipd.zoom.us/my/gdanese  
+🎥 **Zoom room:** [Join Zoom room](https://unive.zoom.us/j/6559311162?pwd=zR6Je6MMkDQhkfxGZwb5QxYPzbV7mP.1)  
 
 📅 **Book an appointment:** https://calendar.app.google/dhsB7AfT94KnYdEY8  
 
