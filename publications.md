@@ -29,7 +29,7 @@ title: Research
 
 - **Adaptation Strategies to Climate Change: Bibliometric Analyses and Emerging Themes**  
   G. Danese (2024)  
-  In T. J. Andersen (Ed.), *Sustainable and Resilient Global Practices*. Emerald  
+  In T. J. Andersen (Ed.), *Sustainable and Resilient Global Practices: Advances in Responsiveness and Adaptation* (Emerald Studies in Global Strategic Responsiveness, Vol. 8, pp. 17–36). Emerald Publishing  
   [PDF](https://drive.google.com/open?id=1ksGe5fWFQb0layKEq0lsYsU7Gy2cEpv0&usp=drive_fs)
 
 - **Climate Change and Business**  
@@ -40,6 +40,9 @@ title: Research
 
 - **Environmental Upgrading in Global Value Chains: An Experiment**  
   G. Danese, V. De Marchi, L. Mittone
+
+- **Sustainability in the Tourism Supply Chain: A Dynamic Actor–Enabler–Outcome Framework**  
+  G. Danese, M. Benuzzi, A. Casagrande
 
 ---
 
@@ -95,7 +98,7 @@ title: Research
   [PDF](https://drive.google.com/open?id=1Wouj-zjazqWmfEvI6ICAKRymjSDpaO7r&usp=drive_fs)
 
 - **Neurophysiological Examination of the Affect–Integration–Motivation Framework of Decision-Making in the Aging Brain: A Registered Report**  
-  C. Fernandes et al. (2022)  
+  C. Fernandes, I. Macedo, A. R. Gonçalves, R. Pasion, R. Mata, G. Danese, I. P. Martins, F. Barbosa, J. Marques-Teixeira (2022)  
   *NeuroImage*, 256, 119189  
   [PDF](https://drive.google.com/file/d/10ArY01HjJ3WjL7VVNg0UobUV2Edo5Y1h/view?usp=sharing)
 
@@ -121,12 +124,12 @@ title: Research
 
 - **Testosterone and Cortisol Jointly Predict the Ambiguity Premium in an Ellsberg-Urns Experiment**  
   G. Danese, E. Fernandes, N. V. Watson, S. Zilioli (2017)  
-  *Frontiers in Behavioral Neuroscience*, 11(68)  
+  *Frontiers in Behavioral Neuroscience*, 11, Article 68  
   [PDF](https://drive.google.com/open?id=10B1rRAX_n-3EYIVJrE_DDE3AtKRqlFtY&usp=drive_fs)
 
 ### Book Chapters
 
 - **Behavioral Economic Anthropology**  
   G. Danese, L. Mittone (2017)  
-  In M. Altman (Ed.), *Handbook of Behavioral Economics and Smart Decision-Making*, pp. 233–248. Edward Elgar Publishing  
+  In M. Altman (Ed.), *Handbook of Behavioural Economics and Smart Decision-Making: Rational Decision-Making within the Bounds of Reason*, pp. 233–248. Edward Elgar Publishing  
   [PDF](https://drive.google.com/open?id=1Fxdsl87CJHd_A-QnVYG45sblCBmk38Wt&usp=drive_fs)
