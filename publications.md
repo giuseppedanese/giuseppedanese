@@ -38,8 +38,8 @@ title: Research
 
 ### Papers under Review
 
-- **Environmental Upgrading in Global Value Chains: An Experiment**  
-  G. Danese, V. De Marchi, L. Mittone
+- **The Gates of Environmental Upgrading: Salience, Credibility, and Supplier Decisions in Global Value Chains**  
+  G. Danese, L. Mittone
 
 - **Sustainability in the Tourism Supply Chain: A Dynamic Actor–Enabler–Outcome Framework**  
   G. Danese, M. Benuzzi, A. Casagrande
@@ -60,18 +60,20 @@ title: Research
   *Man and the Economy*, 3(2), 189–209  
   [PDF](https://drive.google.com/open?id=1oyh9F4Mw7_jFn0AbVr9zNqZcIjXLsOiA&usp=drive_fs)
 
-### Papers under Review
+### Manuscript in Preparation
 
-- **Empowering Stakeholders through Shareholding: A Property Rights Approach to Corporate Governance**  
+- **Stakeholders as Shareholders: Corporate Ownership Beyond the Stakeholder–Shareholder Divide**  
   G. Danese
 
-- **Beyond the Romantic Narrative: How Hybrid Logics Shape and Constrain Social Innovation in the Field of Energy Communities**  
+### Manuscript under Revision
+
+- **Beyond the Romantic Narrative: Energy Communities and the Structural Containment of Social Innovation**  
   A. Maghssudipour, G. Danese, S. R. Sedita
 
 ### Submitted Manuscripts
 
 - **The Hyper-Hybrid SME: Integration Limits and the Accumulation of Institutional Commitments**  
-  G. Danese, V. De Marchi
+  G. Danese
 
 ---
 
